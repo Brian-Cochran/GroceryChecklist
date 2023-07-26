@@ -28,6 +28,7 @@ hr {
 
 .centered {
     text-align: center;
+    padding: 0.5%;
 }
 
 input[type=text] {
@@ -35,3 +36,18 @@ input[type=text] {
     padding: 0 5%;
 }
 
+.addItemButton {
+    border: none;
+    border-radius: 1em;
+    padding: 0 1em;
+    background-color: white;
+}
+
+.item {
+    text-align: center;
+}
+
+.item:hover {
+    text-decoration: line-through;
+    cursor: pointer;
+}
