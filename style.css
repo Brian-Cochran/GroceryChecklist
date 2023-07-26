@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(209, 209, 209);
+}
+
+#topbar {
+    background-color: rgb(75, 75, 75);
+    padding: 1%;
+    color: white;
+    margin-bottom: 5%;
+    text-align: center;
+}
+
+.contentCard {
+    padding: 1% 2%;
+    background-color: rgb(75, 75, 75);
+    color: white;
+    border-radius: 1em;
+}
+
+.cardTitle {
+    text-align: center;
+}
+
+hr {
+    border-top: 5px solid white;
+    border-radius: 0.1em;
+}
+
+.centered {
+    text-align: center;
+}
+
+input[type=text] {
+    border-radius: 1em;
+    padding: 0 5%;
+}
+
